@@ -1,0 +1,3 @@
+git add HW2.txt
+git commit -a -m 'add HW2.txt'
+git push -u origin master
